@@ -93,3 +93,4 @@ DEV/
 BUILD/.DS_Store
 Build4D/Libraries/lib4d-arm64.dylib
 Build4D/Project/Sources/dependencies.json
+Build4D/Project/DerivedData

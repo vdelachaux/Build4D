@@ -5,7 +5,7 @@ var $settings : Object:={\
 buildName: "Build4D"; \
 compilerOptions: {targets: $targets}; \
 signApplication: {macSignature: False; adHocSignature: False}; \
-destinationFolder: "../BUILD/"; \
+destinationFolder: "../COMPONENT/"; \
 includePaths: [{source: "Documentation/"}]; \
 deletePaths: ["./Resources/Dev/"]\
 }
