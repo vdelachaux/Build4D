@@ -9,7 +9,6 @@ jobs:
     runs-on: macos-latest
     env:
       GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-      DEV_ID: "${{ secrets.DEV_ID }}"
     permissions:
       contents: write # for asset upload
     steps:
